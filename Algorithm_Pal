@@ -1,0 +1,11 @@
+1. BEGIN
+2. Input string kedalam variable str
+3. Ubah str menjadi lowercase
+4. Buat variable baru untuk menentukan length str
+5. Buat perulangan sampai setengah dari length
+for (let i; i < length/2; i++)
+6. Jika huruf pertama sama dengan huruf terakhir, lanjutkan perulangan
+if(str[i] !== str[length - 1 - i])
+7. Jika huruf pertama tidak sama dengan huruf terakhir, maka false
+8. Output hasilnya true atau false
+9. END

@@ -1,0 +1,7 @@
+1. BEGIN
+2. Buat variable String dengan value Javascript
+3. Ubah String kedalam array bernama arrSplit, menggunakan split()
+4. Balikkan value arrSplit ke dalam array baru bernama arrReverse, menggunakan reverse()
+5. Gabungkan array yang sudah dibalik menjadi variable baru bertipe string, menggunakan join()
+6. Tampilkan hasilnya
+7. END
